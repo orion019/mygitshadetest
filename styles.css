@@ -17,3 +17,18 @@ body {
     padding: 1rem;
     text-align: center;
 }
+.container-green {
+    background-color: rgb(86, 255, 71);
+    width: 30%;
+    margin: 1rem auto;
+}
+.container-green .card-title-green {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 0.1rem 0.5rem;
+}
+.container-green .card-text-green {
+    background-color: rgb(204, 255, 202);
+    padding: 1rem;
+    text-align: center;
+}
